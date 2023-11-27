@@ -1,0 +1,24 @@
+header{
+    background-color: black;
+}
+.logo{
+    display: inline-block;
+    width: 100px;
+}
+.menu{
+    display: inline-block;
+    width: 30px;
+    float: right;
+    margin: left 10px;
+}
+.blue{
+    background-color: aqua;
+    height: 300px;
+
+}
+.boton{
+    padding: 10px;
+    text-decoration: none;
+    background-color: green;
+    text-align: center;
+}
