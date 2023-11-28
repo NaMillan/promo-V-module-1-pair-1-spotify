@@ -6,7 +6,7 @@ header{
     width: 100px;
 }
 .menu{
-    display: inline-block;
+    
     width: 30px;
     float: right;
     margin: left 10px;
@@ -16,6 +16,7 @@ header{
     height: 300px;
 
 }
+
 .boton{
     padding: 10px;
     text-decoration: none;
