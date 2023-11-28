@@ -1,17 +1,12 @@
-header{
+.header{
+    width:100vw;
+    height:40px;
+    display:flex;
+    justify-content: space-between;
     background-color: black;
 }
-.logo{
-    display: inline-block;
-    width: 100px;
-}
-.menu{
-    display: inline-block;
-    width: 30px;
-    float: right;
-    margin: left 10px;
-}
 .blue{
+    font-family:"Roboto";
     background-color: aqua;
     height: 300px;
 
