@@ -4,17 +4,58 @@
     display:flex;
     justify-content: space-between;
     background-color: black;
+    position: sticky;
+    top:0;
 }
 .blue{
     font-family:"Roboto";
-    background-color: aqua;
+    background-color: #529CF1;
     height: 300px;
+    padding-top: 100px;
+    color: white;
 
 }
 
 .boton{
     padding: 10px;
     text-decoration: none;
-    background-color: green;
-    text-align: center;
+    background-color: #26B758;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    margin: auto;
+    border-radius: 30px;
+}
+.h1{
+    font-weight: ;
+}
+.letras{
+    padding-top: 50px;
+}
+.white{
+    font-family:"Roboto";
+    display:flex;
+    flex-direction: column;
+
+}
+.why{
+justify-content: center;
+}
+.box{
+    display: flex;
+    height: 100px;
+    
+}
+.descarga{
+    transform: scale(0.2);
+}
+.benefit-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.footer{
+    background-color: black;
+    display: block;
+    height: 50px;
 }
