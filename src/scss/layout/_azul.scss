@@ -1,0 +1,29 @@
+.blue{
+    width: 100%;
+    font-family: $font-main;
+    background-color: $color-blue;
+    height: fit-content;
+    padding: 10px;
+    padding-top: 100px;
+    color: $color-white;
+
+    &__contenedor{
+        padding-top: 20px;
+        & a{
+            padding: 10px;
+            text-decoration: none;
+            background-color: $color-boton;
+            display: flex;
+            justify-content: center;
+            width: 200px;
+            margin: auto;
+            border-radius: 30px;
+            color: $color-white;
+        }
+        }
+    &__letras{
+        padding-bottom: 20px;
+        padding-top: 50px;
+    }
+    }
+

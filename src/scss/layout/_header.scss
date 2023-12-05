@@ -1,5 +1,9 @@
-.page__header {
-  display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 3rem;
+.header{
+  width:100%;
+  height:40px;
+  display:flex;
+  justify-content: space-between;
+  background-color: $color-black;
+  position: sticky;
+  top:0;
 }
